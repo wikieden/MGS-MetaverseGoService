@@ -1,2 +1,2 @@
 # MGS-MetaverseGoService
-A Open Source Distribute Metaverse Server For VR and AR
+An Open Source Distribute Metaverse Server For VR and AR
